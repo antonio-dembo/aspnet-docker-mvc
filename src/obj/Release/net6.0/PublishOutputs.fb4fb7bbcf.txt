@@ -1,0 +1,7 @@
+/home/adembo/source/aspnet-docker/out/aspnet-docker
+/home/adembo/source/aspnet-docker/out/appsettings.Development.json
+/home/adembo/source/aspnet-docker/out/appsettings.json
+/home/adembo/source/aspnet-docker/out/aspnet-docker.dll
+/home/adembo/source/aspnet-docker/out/aspnet-docker.deps.json
+/home/adembo/source/aspnet-docker/out/aspnet-docker.runtimeconfig.json
+/home/adembo/source/aspnet-docker/out/aspnet-docker.pdb
